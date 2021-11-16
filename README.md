@@ -19,7 +19,6 @@ A starter/shell app for beginning a node.js/express app using Couchbase
 - /airlines/:key
     - Fetch and return an airline (or any document, for now) by it's key 
 
-
 ## Troubleshooting
 - If errors occur after `npm install`, it may be necessary to run `npm-rebuild
     - _Note:_ This may take a few minutes
