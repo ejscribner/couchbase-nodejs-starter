@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ejscribner/couchbase-nodejs-starter#readme",
   "dependencies": {
     "couchbase": "^3.1.2",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
